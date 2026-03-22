@@ -7,7 +7,7 @@ A simple, terminal-native countdown timer for deep-work sessions.
 - Create a text .csv file to store the logs.
 
 ### How to use
-clone the repo
-make a csv file named: "timer_log.csv"
-chmod +x timer.sh
-./timer.sh 
+- clone the repo
+- make a csv file named: "timer_log.csv"
+- chmod +x timer.sh
+- ./timer.sh 
